@@ -1,0 +1,21 @@
+.cardItem {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.itemName {
+  font-size: 16px;
+}
+
+.itemStatus {
+  background-color: #e0e0e0;
+  border-radius: 12px;
+  padding: 3px 8px;
+  font-size: 12px;
+}
